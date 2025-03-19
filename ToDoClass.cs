@@ -9,6 +9,7 @@ namespace ToDoList
     internal class ToDoClass
     {
         // just adding this comment line for committing this file
+        // adding another line of comment directly in git repo
         private List<string> list = new List<string>()
         {
             "Leetcode","Web dev","Angular", "C#"
