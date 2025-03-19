@@ -8,6 +8,7 @@ namespace ToDoList
 {
     internal class ToDoClass
     {
+        // just adding this comment line for committing this file
         private List<string> list = new List<string>()
         {
             "Leetcode","Web dev","Angular", "C#"
